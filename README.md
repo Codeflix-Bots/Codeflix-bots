@@ -11,12 +11,9 @@
     <h3>About Me</h3>
     <p>
       Hey there! 👋 I'm a passionate programmer and technology enthusiast.
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://graph.org/file/fdc47d088a48eb981c713.jpg" width="200" alt="Profile Image">
-  </div>
-</div>
+<p align="center">
+<img src="https://graph.org/file/3e9c1bee30f64d0b0891f.jpg">
+</p>
 
 <br>
 
