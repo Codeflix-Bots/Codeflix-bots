@@ -12,7 +12,7 @@
     <p>
       Hey there! 👋 I'm a passionate programmer and technology enthusiast.
 <p align="center">
-<img src="https://graph.org/file/3e9c1bee30f64d0b0891f.jpg">
+<img src="https://graph.org/file/fdc47d088a48eb981c713.jpg">
 </p>
 
 <br>
