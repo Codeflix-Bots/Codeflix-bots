@@ -64,7 +64,7 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/мɪкєʏ-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/codeflix_bots)
+- [![telegram](https://img.shields.io/badge/Subaru-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/codeflix_bots)
 - [![gmail](https://img.shields.io/badge/Codeflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:codeflixbots@gmail.com)
 
 <br>
