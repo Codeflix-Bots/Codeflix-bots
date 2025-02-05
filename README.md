@@ -8,9 +8,6 @@
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h3>About Me</h3>
-    <p>
-      Hey there! 👋 I'm a passionate programmer and technology enthusiast.
 <p align="center">
 <img src="https://graph.org/file/fdc47d088a48eb981c713.jpg">
 </p>
