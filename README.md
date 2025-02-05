@@ -15,6 +15,11 @@ Welcome to my GitHub profile! I'm a passionate Python developer who loves creati
 I like to follow the people with good projects but little followers. 😊
 
 Here's a bit more about me:
+<p align="center">
+<img src="https://graph.org/file/fdc47d088a48eb981c713.jpg">
+</p>
+
+<br>
 
 ## 🌟 About Me
 
@@ -28,15 +33,6 @@ Here's a bit more about me:
 - **Frameworks:** Django, Flask, React
 - **Tools:** Git, Docker, VS Code
 - **Databases:** PostgreSQL, MongoDB
-<p align="center">
-<img src="https://graph.org/file/fdc47d088a48eb981c713.jpg">
-</p>
-
-<br>
-
-# _Hi there 👋_
-
-### 👋 I'm a passionate programmer and technology enthusiast, also known as Yato. I'm a self-taught web/bot developer
 
 ## Here is some of the projects I've worked on
 
